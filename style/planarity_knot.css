@@ -1,10 +1,10 @@
-#score, #level {
+#total-move-count, #level {
   color: #B1E0C0;
   position: fixed;
   right: 100px;
 }
 
-#score {
+#total-move-count {
   bottom: 150px;
 }
 
