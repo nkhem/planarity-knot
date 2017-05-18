@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkhem/planarity-knot.git"
+    "url": "git+https://github.com/nkhem/planarity_knot.git"
   },
   "engines": {
     "node": "6.2.1",
@@ -32,7 +32,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nkhem/planarity-knot/issues"
+    "url": "https://github.com/nkhem/planarity_knot/issues"
   },
-  "homepage": "https://github.com/nkhem/planarity-knot#readme"
+  "homepage": "https://github.com/nkhem/planarity_knot#readme"
 }
