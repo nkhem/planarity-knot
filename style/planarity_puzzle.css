@@ -1,3 +1,49 @@
+#score, #level {
+  color: #B1E0C0;
+  position: fixed;
+  right: 100px;
+}
+
 #score {
-  color: "#B1E0C0";
+  bottom: 150px;
+}
+
+#level {
+  bottom: 135px;
+}
+
+body {
+  background-color: #101010;
+}
+
+h1 {
+  margin: 30px;
+  font-weight: bold;
+  color: #B1E0C0;
+  font-size: 30px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+	transition: background-color 0.3s ease;
+  cursor: pointer;
+  background-color: #4448AF;
+}
+
+#level-up-btn {
+  color: #101010;
+  position: fixed;
+  bottom: 80px;
+  right: 100px;
+}
+
+#level-up-btn:hover {
+  background-color: #7073CC;
+  border-color: #7073CC;
 }

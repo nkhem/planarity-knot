@@ -7,6 +7,7 @@ span, time {
   border: none;
   outline: none;
   font: inherit;
+  font-family: helvetica, arial, sans-serif;
   color: inherit;
   text-align: left;
   text-decoration: none;
