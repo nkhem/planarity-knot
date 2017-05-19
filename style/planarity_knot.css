@@ -97,10 +97,6 @@ button:hover {
   padding-top: 8px;
 }
 
-.hidden {
-  display: none;
-}
-
 .icons {
   position: fixed;
   display: flex;
@@ -109,7 +105,26 @@ button:hover {
   bottom: 135px;
 }
 
-.icons i {
+.fa-repeat-caption,
+.fa-backward-caption,
+.fa-question-circle-o-caption,
+.fa-github-caption,
+.fa-linkedin-caption {
+  position: fixed;
+  color: #352CB3;
+  z-index: 1;
+  left: 95px;
+}
+
+.fa-repeat-caption {bottom: 260px;}
+.fa-backward-caption {bottom: 229px;}
+.fa-question-circle-o-caption {bottom: 199px;}
+.fa-github-caption {bottom: 167px;}
+.fa-linkedin-caption {bottom: 135px;}
+
+.fa-question-circle-o,
+.fa-github,
+.fa-linkedin {
   font-size: 30px;
   color: #B1E0C0;
 }
@@ -117,9 +132,14 @@ button:hover {
 i.fa-repeat, i.fa-backward {
   font-size: 24px;
   padding: 3px;
+  color: #B1E0C0;
 }
 
-.icons i:hover {
+.fa-repeat:hover,
+.fa-backward:hover,
+.fa-question-circle-o:hover,
+.fa-github:hover,
+.fa-linkedin:hover {
   color: #352CB3;
   cursor: pointer;
 }
@@ -128,4 +148,8 @@ i.fa-hand-o-right {
   color: #101010;
   font-size: 20px;
   padding-left: 3px;
+}
+
+.hidden {
+  display: none;
 }
