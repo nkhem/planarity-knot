@@ -1,14 +1,22 @@
-#score, #level {
+#level, #score, #move-count, #elapsed-time {
   color: #B1E0C0;
   position: fixed;
   right: 60px;
 }
 
+#level {
+  bottom: 195px;
+}
+
 #score {
+  bottom: 180px;
+}
+
+#move-count {
   bottom: 150px;
 }
 
-#level {
+#elapsed-time {
   bottom: 135px;
 }
 
