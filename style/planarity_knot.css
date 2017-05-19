@@ -52,7 +52,7 @@ button {
   right: 60px;
 }
 
-#level-up-btn:hover {
+button:hover {
   background-color: #352CB3;
   border-color: #352CB3;
 }
@@ -122,4 +122,10 @@ i.fa-repeat, i.fa-backward {
 .icons i:hover {
   color: #352CB3;
   cursor: pointer;
+}
+
+i.fa-hand-o-right {
+  color: #101010;
+  font-size: 20px;
+  padding-left: 3px;
 }
