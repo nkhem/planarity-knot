@@ -1,17 +1,20 @@
 <html>
   <head>
-    <title>Planarity Knot</title>
+    <title>Planarity Puzzle</title>
     <script type="application/javascript" src="lib/bundle.js"></script>
+    <script src="https://use.fontawesome.com/53eddcca77.js"></script>
     <link rel="stylesheet" type="text/css" href="./style/reset.css">
-    <link rel="stylesheet" type="text/css" href="./style/planarity_knot.css">
+    <link rel="stylesheet" type="text/css" href="./style/planarity_puzzle.css">
   </head>
 
   <body>
-    <h1>Planarity Knot</h1>
+    <h1>Planarity Puzzle</h1>
     <div id="root">
-      <div id="level">Level: 1</div>
-      <div id="total-move-count">Total Move Count: 0</div>
+      <div id="level">level: 1</div>
+      <div id="score">score: 0</div>
       <button class="hidden" id="level-up-btn" />
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </button>
     </div>
     <canvas id="canvas"></canvas>
   </body>
