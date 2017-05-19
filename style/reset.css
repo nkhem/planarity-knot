@@ -24,3 +24,10 @@ img {
   width: inherit;
   height: auto;
 }
+
+canvas {
+  position: fixed;
+  left: 150px;
+  top: 35px;
+  z-index: -1;
+}

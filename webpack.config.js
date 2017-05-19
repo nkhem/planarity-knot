@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "./lib/planarity_puzzle.js",
+  entry: "./lib/planarity_knot.js",
   output: {
   	filename: "./lib/bundle.js"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "planarity_puzzle",
+  "name": "planarity_knot",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkhem/planarity_puzzle.git"
+    "url": "git+https://github.com/nkhem/planarity_knot.git"
   },
   "engines": {
     "node": "6.2.1",
@@ -32,7 +32,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nkhem/planarity_puzzle/issues"
+    "url": "https://github.com/nkhem/planarity_knot/issues"
   },
-  "homepage": "https://github.com/nkhem/planarity_puzzle#readme"
+  "homepage": "https://github.com/nkhem/planarity_knot#readme"
 }
