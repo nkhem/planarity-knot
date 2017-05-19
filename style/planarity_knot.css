@@ -100,3 +100,26 @@ button {
 .hidden {
   display: none;
 }
+
+.icons {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  left: 60px;
+  bottom: 135px;
+}
+
+.icons i {
+  font-size: 30px;
+  color: #B1E0C0;
+}
+
+i.fa-repeat, i.fa-backward {
+  font-size: 24px;
+  padding: 3px;
+}
+
+.icons i:hover {
+  color: #352CB3;
+  cursor: pointer;
+}
