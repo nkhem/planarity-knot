@@ -1,7 +1,7 @@
 #score, #level {
   color: #B1E0C0;
   position: fixed;
-  right: 100px;
+  right: 60px;
 }
 
 #score {
@@ -37,10 +37,11 @@ button {
 }
 
 #level-up-btn {
+  z-index: 1;
   color: #101010;
   position: fixed;
   bottom: 80px;
-  right: 100px;
+  right: 60px;
 }
 
 #level-up-btn:hover {
