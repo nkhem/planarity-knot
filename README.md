@@ -10,9 +10,7 @@ In graph theory, a planar graph is one whose lines intersect only at their endpo
 
 Each level starts out with a randomly generated set of points and intersecting lines. The 'knots' start out simple, and quickly ramp up in difficulty.
 
-<img src="./img/level1_start.png" width=400/>
-<img src="./img/level1_finish.png" width=400/>
-
+<img src="./img/level1.png" width=400/>
 
 <img src="./img/level10_start.png" width=400/>
 <img src="./img/level10_finish.png" width=400/>
