@@ -10,12 +10,18 @@ In graph theory, a planar graph is one whose lines intersect only at their endpo
 
 Each level starts out with a randomly generated set of points and intersecting lines. The 'knots' start out simple, and quickly ramp up in difficulty.
 
+Level 1:
+
 <img src="./img/level1.png" width=900/>
 
+Level 5:
 <img src="./img/level5.png" width=900/>
 
+Level 10:
 <img src="./img/level10.png" width=900/>
 
+Level 20:
 <img src="./img/level20.png" width=900/>
 
+Level 35:
 <img src="./img/level35.png" width=900/>
