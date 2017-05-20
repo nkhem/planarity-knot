@@ -8,4 +8,6 @@ Planarity Knot is a mathematical puzzle based on a popular online computer game,
 
 In graph theory, a planar graph is one whose lines intersect only at their endpoints.
 
+<img src="./img/planar_graph_example.png" width=400/>
+
 The goal of the game is to create a planar graph by rearranging the endpoints so that none of the lines cross.
