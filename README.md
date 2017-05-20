@@ -12,11 +12,10 @@ Each level starts out with a randomly generated set of points and intersecting l
 
 <img src="./img/level1.png" width=900/>
 
-<img src="./img/level10_start.png" width=400/>
-<img src="./img/level10_finish.png" width=400/>
+<img src="./img/level5.png" width=900/>
 
-<img src="./img/level20_start.png" width=400/>
-<img src="./img/level20_finish.png" width=400/>
+<img src="./img/level10.png" width=900/>
 
-<img src="./img/level35_start.png" width=400/>
-<img src="./img/level35_finish.png" width=400/>
+<img src="./img/level20.png" width=900/>
+
+<img src="./img/level35.png" width=900/>
