@@ -89,6 +89,11 @@ button:hover {
   padding-top: 16px;
 }
 
+i.fa-hand-spock-o {
+  font-size: 20px;
+  color: #101010
+}
+
 .icons {
   position: fixed;
   display: flex;
