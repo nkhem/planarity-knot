@@ -108,8 +108,8 @@ i.fa-hand-spock-o {
   bottom: 135px;
 }
 
-.fa-repeat-caption,
 .fa-backward-caption,
+.fa-repeat-caption,
 .fa-question-circle-o-caption,
 .fa-github-caption,
 .fa-linkedin-caption {
@@ -119,8 +119,8 @@ i.fa-hand-spock-o {
   left: 95px;
 }
 
-.fa-repeat-caption {bottom: 260px;}
-.fa-backward-caption {bottom: 229px;}
+.fa-backward-caption {bottom: 260px;}
+.fa-repeat-caption {bottom: 229px;}
 .fa-question-circle-o-caption {bottom: 199px;}
 .fa-github-caption {bottom: 167px;}
 .fa-linkedin-caption {bottom: 135px;}
@@ -132,14 +132,14 @@ i.fa-hand-spock-o {
   color: #B1E0C0;
 }
 
-i.fa-repeat, i.fa-backward {
+i.fa-backward, i.fa-repeat {
   font-size: 24px;
   padding: 3px;
   color: #B1E0C0;
 }
 
-.fa-repeat:hover,
 .fa-backward:hover,
+.fa-repeat:hover,
 .fa-question-circle-o:hover,
 .fa-github:hover,
 .fa-linkedin:hover {
