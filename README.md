@@ -8,7 +8,7 @@ Planarity Knot is a mathematical puzzle based on a popular online computer game,
 
 In graph theory, a graph is planar if it can be drawn on a two-dimensional plane such that its edges intersect only at their endpoints. Planarity Knot presents the player with randomly generated planar graphs of increasing complexity, but they don't look planar because they're all garbled up. The player must rearrange the nodes such that no edges overlap in order to level up.
 
-Level 1, before and after:
+An example of a Level 1 graph, before and after:
 
 <img src="./img/level1.png" width=900/>
 
